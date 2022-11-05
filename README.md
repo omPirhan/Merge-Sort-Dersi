@@ -23,3 +23,4 @@ Big-O gösterimi
  O(nlogn)
 ```
 [patikalinkim](https://app.patika.dev/omermertpirhan)
+[Patika.dev](https://www.patika.dev/tr)
